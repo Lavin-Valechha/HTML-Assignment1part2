@@ -62,7 +62,7 @@
         </div>
 
         <div class="product">
-            <img src="tshirt2.jpg" alt="T-Shirt 2">
+            <img src="[tshirt2.jpg](https://github.com/Lavin-Valechha/HTML-Assignment2/blob/main/lordPuneet-superstar.png?raw=true)" alt="T-Shirt 2">
             <div>
                 <h2>T-Shirt Model 2</h2>
                 <p>Soft and comfortable fit.</p>
