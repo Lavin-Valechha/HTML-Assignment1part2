@@ -52,7 +52,7 @@
 
     <div class="container">
         <div class="product">
-            <img src="[tshirt1.jpg](https://github.com/Lavin-Valechha/HTML-Assignment2/blob/main/download%20(2).jpeg?raw=true)" alt="T-Shirt 1">
+            <img src="https://github.com/Lavin-Valechha/HTML-Assignment2/blob/main/download%20(2).jpeg?raw=true" alt="T-Shirt 1">
             <div>
                 <h2>T-Shirt Model 1</h2>
                 <p>High-quality cotton T-shirt.</p>
@@ -62,7 +62,7 @@
         </div>
 
         <div class="product">
-            <img src="[tshirt2.jpg](https://github.com/Lavin-Valechha/HTML-Assignment2/blob/main/lordPuneet-superstar.png?raw=true)" alt="T-Shirt 2">
+            <img src="https://github.com/Lavin-Valechha/HTML-Assignment2/blob/main/lordPuneet-superstar.png?raw=true" alt="T-Shirt 2">
             <div>
                 <h2>T-Shirt Model 2</h2>
                 <p>Soft and comfortable fit.</p>
