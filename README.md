@@ -52,7 +52,7 @@
 
     <div class="container">
         <div class="product">
-            <img src="tshirt1.jpg" alt="T-Shirt 1">
+            <img src="[tshirt1.jpg](https://github.com/Lavin-Valechha/HTML-Assignment2/blob/main/download%20(2).jpeg?raw=true)" alt="T-Shirt 1">
             <div>
                 <h2>T-Shirt Model 1</h2>
                 <p>High-quality cotton T-shirt.</p>
